@@ -13,7 +13,6 @@ N/A
 
 Use this projec as a webpage to maintian and access notes for the course under CSS, HTML, javaScript and Git 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
